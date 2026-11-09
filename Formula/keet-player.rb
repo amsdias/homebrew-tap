@@ -1,8 +1,8 @@
 class KeetPlayer < Formula
   desc "Low-CPU terminal audio player with visualizations, EQ and synced lyrics"
   homepage "https://github.com/amsdias/Keet"
-  url "https://github.com/amsdias/Keet/archive/refs/tags/v2.0.4.tar.gz"
-  sha256 "20bf747b6c2073204dcd301b69c5bbe1cd1fbf7f0c58d57917741176b836e320"
+  url "https://github.com/amsdias/Keet/archive/refs/tags/v2.1.0.tar.gz"
+  sha256 "f9c57e1595ba424f0fd6aa90d1306d78063406d5ecd54f6ee8e805c9510f44e1"
   license "AGPL-3.0-or-later"
 
   depends_on "rust" => :build
